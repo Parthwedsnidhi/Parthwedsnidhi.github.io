@@ -4,8 +4,8 @@ function MapApiLoaded() {
     /** Google Map **/
     function init_map() {
         var locations = [
-            ['<div class="scrollFix"><div class="col-md-12"><h4 class="title">Shree Rajput Seva Samaj</h4></div><div class="col-md-12">  <p>Besides Sharnam-IV, </p><p>Jodhpur Tekra, Ahmedabad</p><p>Gujarat 380015</p>  </div>  </div>', 21.520637, 70.474625, 1],
-            ['<div class="scrollFix"><div class="col-md-12"><h4 class="title">Shree Rajput Seva Samaj</h4></div><div class="col-md-12">  <p>Besides Sharnam-IV, </p><p>Jodhpur Tekra, Ahmedabad</p><p>Gujarat 380015</p>  </div>  </div>', 21.520637, 70.474625, 1]
+            ['<div class="scrollFix"><div class="col-md-12"><h4 class="title">Shree Rajput Seva Samaj</h4></div><div class="col-md-12">  <p>Besides Sharnam-IV, </p><p>Jodhpur Tekra, Ahmedabad</p><p>Gujarat 380015</p>  </div>  </div>', 22.56987, 72.96377, 1],
+            ['<div class="scrollFix"><div class="col-md-12"><h4 class="title">Shree Rajput Seva Samaj</h4></div><div class="col-md-12">  <p>Besides Sharnam-IV, </p><p>Jodhpur Tekra, Ahmedabad</p><p>Gujarat 380015</p>  </div>  </div>', 22.56987, 72.96377, 1]
         ];
         var myOptions = {
             scrollwheel: false,
